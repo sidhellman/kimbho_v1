@@ -1,4 +1,4 @@
-```markdown
+
 # Kimbho V1
 
 **Kimbho V1** is an experimental **decoder-only language model** designed with advanced **Grouped-Query Attention** (GQA) and **Rotary Positional Embeddings** (RoPE). It aspires to deliver **GPT-4-level** language capabilities, offering robust performance on a variety of natural language processing tasks such as text generation, summarization, and question answering.
@@ -81,7 +81,7 @@ Kimbho V1 follows a **decoder-only** approach:
    ```bash
    git clone https://github.com/your-username/kimbho-v1.git
    cd kimbho-v1
-   ```
+   ```p
 
 2. **Install Dependencies**
 
