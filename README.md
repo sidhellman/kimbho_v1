@@ -189,8 +189,8 @@ A typical layout might look like:
 ```
 kimbho-v1/
 ├─ train_kimbho_v1.py        # Training script
-├─ model.py                  # KimbhoV1 model definition (decoder blocks, GQA, RoPE)
-├─ dataset.py                # Example dataset code
+├─ model.py                  # KimbhoV1 model definition (decoder blocks, GQA, RoPE) part of main body
+├─ dataset.py                # Example dataset code in the main code
 ├─ inference.py              # (Optional) decoding functions
 ├─ README.md                 # This README
 └─ requirements.txt          # Dependencies
